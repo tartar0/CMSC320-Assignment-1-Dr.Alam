@@ -1,0 +1,9 @@
+Q2: What field could data science be applied to? Give and Example and how it
+might be help
+
+Answer: Data science can be applied to almost every field. It allows us to mani
+pulate data and filter data to our liking, to create a deliverable. It can 
+provide advanced analytics on decision making. Almost every field can benefit
+from this technology. For example, the NFL is paired with AWS for live
+statistical data during NFL football games. This partnership provides viewers
+with live probabilities of touchdowns and who will win the game. 
