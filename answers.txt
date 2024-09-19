@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: Git is a quick and simple way to work with large projects. It allows yo
+u to push new updates/commits during the development process. It is very 
+versatile and makes things like merging and duplicating branches very simple.
