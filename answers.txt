@@ -20,3 +20,9 @@ Answer: Merging merges branches together and combines them, rebasing is basic
 ally overriding the original commit of a branch with a different commit. It
 effectively takes all the changes on a different branch and puts them onto 
 a different branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my experience with new technologies and libraries. I
+hope to master my skills in Pandas and ultimately fully grasp new data science
+techniques and methods.
