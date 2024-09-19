@@ -14,3 +14,9 @@ from this technology. For example, the NFL is paired with AWS for live
 statistical data during NFL football games. This partnership provides viewers
 with live probabilities of touchdowns and who will win the game. 
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging merges branches together and combines them, rebasing is basic
+ally overriding the original commit of a branch with a different commit. It
+effectively takes all the changes on a different branch and puts them onto 
+a different branch.
